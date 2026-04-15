@@ -1,0 +1,6 @@
+{
+  "name": "moshono",
+  "description": "A clean and simple prompt-to-review video generator using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
